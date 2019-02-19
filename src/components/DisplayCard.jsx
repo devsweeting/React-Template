@@ -72,7 +72,7 @@ class DisplayCard extends React.Component {
         />
         <CardMedia
           className={classes.media}
-          image="/static/images/cards/paella.jpg"
+          image="src/assets/burger.jpeg"
           title="Paella dish"
         />
         <CardContent>

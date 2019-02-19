@@ -15,7 +15,6 @@ function App(){
     <div>
       <Header />
       <DisplayCard />
-      <DisplayCard />
     </div>
   );
 }
